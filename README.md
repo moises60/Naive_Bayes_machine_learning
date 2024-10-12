@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de **Clasificación Naiv
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/clasificacion_compras_redes_sociales.git
+   git clone https://github.com/moises60/Naive_Bayes_machine_learning.git
    ```
 ### Uso 
 ### Creación del Dataset 
@@ -89,14 +89,13 @@ Verdaderos Positivos (TP): 35
            1       0.83      0.83      0.83        42
 
     accuracy                           0.81        75
-   macro avg       0.81      0.81      0.81        75
-weighted avg       0.81      0.81      0.81        75 
 
 
 
 ## 3. Área de Decisión del Modelo en el Conjunto de Prueba
 
-![Distribución del Modelo](assets/Distribución_Modelo.png) 
+![Distribución del Modelo](assets/Distribución_Modelo.png)
+
 ![Curva ROC](assets/Curva_ROC.png) 
 
 
